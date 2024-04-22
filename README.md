@@ -1,0 +1,1 @@
+# Hackintosh-OpenCore-ASUS-Vivobook-A512FL
