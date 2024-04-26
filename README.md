@@ -13,6 +13,7 @@ My SPECS:
 Not working:
 - Camera (Webcam)
 - ...
+
 Don't test:
 - HDMI
 - ...
