@@ -10,4 +10,11 @@ My SPECS:
 - VGA: Intel UHD 620 + MX250 (Disabled)
 - SSD: Kioxia BG50 256GB NVME 4x4
 
+Not working:
+- Camera (Webcam)
+- ...
+Don't test:
+- HDMI
+- ...
+
 *Please change SMBIOS before used
