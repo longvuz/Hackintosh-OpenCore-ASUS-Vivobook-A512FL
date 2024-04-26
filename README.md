@@ -1,7 +1,7 @@
 # Hackintosh-OpenCore-ASUS-Vivobook-A512FL
 
 - This is my personal project for Hackintosh OPENCORE
-
+- My config.plist now is working good with DUAL BOOT MacOS VENTURA + WINDOWS 11 (can be update to SONOMA)
 - The current version: 0.9.9
 
 My SPECS:
